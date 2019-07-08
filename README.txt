@@ -10,4 +10,5 @@ The customization is achievable by combining different bundles of modular access
 the toy the possibility to change over time, evolving with kid's tastes, provides the illusion to be a brand new one over and over. 
 On top of that, as time goes by, all the different bundles with tell the whole story of your childhood, providing a nostalgia aspect. 
 The toy should be able to bond with the kid, talk to him/her and trying to understand what are his/her attitudes and actually promote
-activities the kid may like and from which the kid can actually learn something in a fun way. The learning process is left to the  
+activities the kid may like and from which the kid can actually learn something in a fun way. The learning process is left to the
+application run on a smartphone/tablet ecc.
