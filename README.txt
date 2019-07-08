@@ -4,3 +4,5 @@ but this also means that they become useless after the recommended age range. On
 spend with their child. Wala is an educational AI robot with its own mind and has the ability to extend functions with new 
 kits the customers buy, similar to Labo for Nintendo's Switch. With the extended functions, the robot can become a 
 programmable robot, a race car, or even a music instrument.
+
+The main idea is to have a toy (hardware) which is fully customizable with respect to physical aspects. The customization is achievable by combining different bundles of modular accessories; it is considered a critical aspect because giving the toy the possibility to change over time, evolving with kid's tastes, provides the illusion to be a brand new one over and over. On top of that, as time goes by, all the different bundles with tell the whole story of your childhood, providing a nostalgia aspect. 
