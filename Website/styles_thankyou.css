@@ -1,0 +1,87 @@
+*{
+    margin=0;
+    padding=0;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+div.outer{
+    padding-bottom:20px;
+    background-color:rgba(0,0,0,0.5);
+}
+
+div.thankyou{
+    padding-top:5px;
+    margin-top:200px;
+    margin-left:auto;
+    margin-right:auto;
+    width:35%;
+}
+
+h1{
+    text-align:center;
+    font-size:40px;
+    font-family:"consolas";
+    color:orange;
+}
+
+div.ques{
+    position:center;
+    margin-right:auto;
+    margin-left:auto;
+    width:25%;
+}
+p{
+    font-family:"helveticaneue-light";
+    margin-top=0;
+    text-align:center;
+    color:white;
+}
+h3{
+    text-align:center;
+    vertical-align:middle;
+    font-size:20px;
+    font-weight:100;
+}
+
+a.ret{
+    text-decoration:none;
+    font-family:"helveticaneue-light";
+    color:white;
+}
+
+a.survey{
+    text-decoration:none;
+    font-family:"helveticaneue-light";
+    color:white;
+}
+
+div.sur{
+    margin-left:auto;
+    margin-right:auto;
+    width:20%;
+    border-radius:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background:orange;
+    margin-bottom:10px;
+}
+
+div.return{
+    margin-left:auto;
+    margin-right:auto;
+    width:20%;
+    border-radius:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background:orange;
+}
+
+
+
+
+

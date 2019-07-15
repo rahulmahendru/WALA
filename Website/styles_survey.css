@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+div.frame{
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+    margin-top:100px;
+    background-color:rgba(255,255,255,0.7);
+    padding:15px;
+}
+h2.srvy{
+    text-align:center;
+    font-family:"helveticaneue";
+    font-size:40px;
+    margin-bottom:20px;
+    color:rgba(129,142,180);
+    
+}
+
+label{
+    font-size:30px;
+    font-family:"helveticaneue-light";
+    padding-bottom:10px;
+    
+}
+
+input.labl{
+    margin-top:10px;
+    margin-bottom:10px;
+    display:inline-block;
+    border:none;
+    border-bottom:1px solid black;
+    width:100%;
+    background:none;
+    font-size:30px;
+    font-family:"helveticaneue-light";
+    box-sizing:border-box;
+}
+
+button.sbmt{
+    margin-top:10px;
+    margin: 0 auto;
+    font-size:20px;
+    font-family:"helveticaneue-light";
+    border-radius:15px;
+    border:none;
+    padding:15px;
+    display:block;
+    background-color:orange;
+    width:30%;
+}
