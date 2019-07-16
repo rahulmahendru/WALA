@@ -17,15 +17,16 @@ div.first{
     width:100%;
     position:fixed;
     padding-top: 10px;
-    background: rgba(255,255,255);
+    background: rgba(245,245,245);
     border-bottom: 1px groove rgba(0,0,0,0.1);
     z-index:9999;
+    height:70px;
    
 }
 
 img.amgo{
     position:relative;
-    height:50px;
+    height:60px;
     vertical-align:middle;
     margin-right:auto;
     margin-left:-1000px;
@@ -35,7 +36,7 @@ h5.l{
     position:relative;
     display:inline-block;
     vertical-align:middle;
-    margin-top:-55px;
+    margin-top:-75px;
     margin-left:700px;
     font-size: 18px;
     font-family: 'Roboto', sans-serif;
@@ -54,14 +55,16 @@ a:hover{
 }
 
 div.bg{
+    margin:0;
     position:relative;
-    top:175px;
+    top:0px;
     /*background-color:rgba(129,142,180,0.7);*/
-    padding-bottom:30px;
     padding-top:10px;
+    background:rgba(255,255,255);
     }
 
 div.info{
+    top:200px;
     position:relative;
     margin-left:125px;
     margin-right:auto;
@@ -88,27 +91,34 @@ p.rest{
 
 div.formbutton{
     position:relative;
-    top:50px;
+    top:250px;
     margin-left:125px;
     margin-right:auto;
     width:18%;
-    border-radius:25px;
-    padding-top:15px;
-    padding-bottom:15px;
-    background:orange;
 }
 
-h6.fb{
-    text-align:center;
-    vertical-align:middle;
-    font-size:25px;
-}
-
-a.lm{
-    text-decoration:none;
-    color:white;
+button.lm{
+    font-size:20px;
     font-family:"Apercu-medium";
-    font-weight:100;
+    border-radius:15px;
+    border:none;
+    padding:10px;
+    background-color:orange;
+    width:100%;
+    color:rgba(255,255,255);
+}
+
+div.image{
+    margin-top:-175px;
+    margin-left:auto;
+    margin-right:0px;
+    position:relative;
+    width:50%;
+}
+
+img.hero{
+    width:100%;
+    height:500px;
 }
 
 div.frm{
@@ -116,7 +126,7 @@ div.frm{
     margin-right:auto;
     width:50%;
     position:relative;
-    top:220px;
+    top:100px;
 }
 
 h2.signup{
@@ -129,34 +139,43 @@ h2.signup{
 
 
 div.lbl{
+    position:relative;
+    margin-right:auto;
+    margin-left:70px;
     padding:30px;
+    width:40%;
 }
 
 input.lbl{
     display:inline-block;
-    border:none;
-    width:100%;
-    border-bottom:2px solid rgba(0,0,0,0.3);
+    border:1px solid rgba(0,0,0);
     background:none;
-    font-size:30px;
+    font-size:20px;
     font-family:"Roboto thin", sans-serif;
+    z-index:9998;
 }
 
 input[type=text]:focus{
-    border:none;
     background-color:rgba(255,255,255,0.5);
 }
 
+div.button{
+    margin-top:-60px;
+    position:relative;
+    margin-left:auto;
+    margin-right:150px;
+    text-align:right;
+    width:25%;
+}
+
 button.submit{
-    margin: 0 auto;
     font-size:20px;
     font-family:"Apercu-medium";
     border-radius:15px;
     border:none;
-    padding:15px;
-    display:block;
+    padding:5px;
     background-color:orange;
-    width:30%;
+    width:100%;
     color:rgba(255,255,255);
 }
 
@@ -178,20 +197,16 @@ div.product{
     margin-left:auto;
     margin-right:auto;
     width:100%;
-    top:300px;
+    top:100px;
 }
 
 div.heading{
     text-align:center;
 }
 
-h1.heading{
-    letter-spacing:1px;
-    font-family:"Apercu";
-    font-size:85px;
-    
+img.heading{
+    height:100px;
 }
-
 h3.heading{
     margin-top:-10px;
     font-family:"Roboto", sans-serif;
@@ -199,13 +214,19 @@ h3.heading{
     font-weight:200;
 }
 
+div.toy{
+    position:relative;
+    top:50px;
+}
+
 div.toy1{
+    vertical-align:middle;
     margin-bottom:100px;
     text-align:left;
     margin-right:auto;
     margin-left:125px;
     width:25%;
-    margin-top:50px;
+    margin-top:100px;
 }
 
 h1.kid{
@@ -221,12 +242,25 @@ p.kid{
     color:rgba(120,120,120);
 }
 
+div.toy2{
+    vertical-align:middle;
+    position:relative;
+    display:inline-block;
+    margin-top:-400px;
+}
+
+img.toy2{
+    margin-left:800px;
+    height:400px;
+}
+
 div.app{
     position:relative;
     top:75px;
 }
 
 div.app1{
+    position:relative;
     vertical-align:middle;
     text-align:left;
     margin-right:150px;
@@ -270,6 +304,6 @@ div.last{
     margin-right:auto;
     width:100%;
     position:relative;
-    top:300px;
+    top:200px;
     background-color:rgba(200,200,200);
 }
