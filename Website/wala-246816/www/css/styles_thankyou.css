@@ -11,7 +11,6 @@ body{
 
 div.outer{
     padding-bottom:20px;
-    background-color:rgba(0,0,0,0.5);
 }
 
 div.thankyou{
@@ -25,8 +24,8 @@ div.thankyou{
 h1{
     text-align:center;
     font-size:40px;
-    font-family:"consolas";
-    color:orange;
+    font-family:"Apercu";
+    color:black;
 }
 
 div.ques{
@@ -36,10 +35,10 @@ div.ques{
     width:25%;
 }
 p{
-    font-family:"helveticaneue-light";
+    font-family:"Roboto", sans-serif;
     margin-top=0;
     text-align:center;
-    color:white;
+    color:rgba(120,120,120);
 }
 h3{
     text-align:center;
@@ -50,13 +49,13 @@ h3{
 
 a.ret{
     text-decoration:none;
-    font-family:"helveticaneue-light";
+    font-family:"Roboto", sans-serif;
     color:white;
 }
 
 a.survey{
     text-decoration:none;
-    font-family:"helveticaneue-light";
+    font-family:"Roboto", sans-serif;
     color:white;
 }
 
