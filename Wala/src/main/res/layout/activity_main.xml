@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/screen_two"
+        android:layout_width="420dp"
+        android:layout_height="734dp"
+        android:background="#60FFEB3B"
+        android:fontFamily="Apercu"
+        android:onClick="dispaySecondScreen"
+        android:text="Hello Rahul."
+        android:textAppearance="@style/TextAppearance.AppCompat.Display4"
+        android:textColor="#BE03A9F4"
+        android:textSize="80dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />"100dp"
+style="?android:attr/borderlessButtonStyle" />
+    </android.support.constraint.ConstraintLayout>

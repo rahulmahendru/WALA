@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aimigo</string>
+    <string name="guessing_game">Identify The Number</string>
+    <string name="Question">0</string>
+    <string name="Ans1">0</string>
+    <string name="Ans2">0</string>
+    <string name="Ans3">0</string>
+    <string name="score">Points: 0</string>
+</resources>
