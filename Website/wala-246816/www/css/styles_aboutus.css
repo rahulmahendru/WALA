@@ -35,6 +35,7 @@ img.amgo{
     height:60px;
     vertical-align:middle;
     margin-right:auto;
+    width:150px;
     margin-left:-1000px;
     
 }
@@ -68,7 +69,7 @@ div.heading{
     top:150px;
 }
 
-h1{
+h1.au{
     color:black;
     font-family:"Apercu";
     font-size:40px;
@@ -90,3 +91,108 @@ p{
     color:rgba(120,120,120);
 }
 
+div.team{
+    margin-right:auto;
+    margin-left:auto;
+    text-align:center;
+    position:relative;
+    top:50px;
+}
+
+div.head{
+    position:relative;
+    width:100%;
+}
+
+h1.team{
+    color:black;
+    font-family:"Apercu";
+    font-size:40px;
+}
+
+div.images{
+    position:relative;
+    top:20px;
+    width:100%;
+    display:block;
+    height:200px;
+}
+
+div.img1, div.img2, div.img3, div.img4, div.img5{
+    position:relative;
+    width:200px;
+    display:inline-block;
+    vertical-align:top;
+    margin:10px;
+}
+
+img{
+    width:100%;
+    height:100%;
+}
+
+div.last{
+    text-align:center;
+    height:150px;
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+    position:relative;
+    top:100px;
+    background-color:rgba(200,200,200);
+}
+
+div.follow{
+    position:relative;
+    margin-top:50px;
+    top:20px;
+}
+
+h3.follow{
+    
+    font-size:20px;
+    font-family:"Apercu";
+}
+
+div.logos{
+    position:relative;
+    height:50px;
+    top:35px;
+}
+img.facebook{
+    margin-left:15px;
+    margin-right:15px;
+    height:100%;
+    width:60px;
+}
+
+img.instagram{
+    margin-left:15px;
+    margin-right:15px;
+    height:100%;
+    width:60px;
+}
+
+img.twitter{
+    margin-left:15px;
+    margin-right:15px;
+    height:100%;
+    width:60px;
+}
+
+img.linkedin{
+    margin-left:15px;
+    margin-right:15px;
+    height:100%;
+    width:60px;
+}
+
+img.eia{
+    display:inline-block;
+    height:100px;
+    width:100px;
+    vertical-align:middle;
+    margin-left:1200px;
+    margin-right:auto;
+    margin-top:-100px;
+}
