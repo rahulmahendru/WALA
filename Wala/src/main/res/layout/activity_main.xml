@@ -13,7 +13,7 @@
         android:background="#60FFEB3B"
         android:fontFamily="Apercu"
         android:onClick="dispaySecondScreen"
-        android:text="Hello Rahul."
+        android:text="Hello."
         android:textAppearance="@style/TextAppearance.AppCompat.Display4"
         android:textColor="#BE03A9F4"
         android:textSize="80dp"
